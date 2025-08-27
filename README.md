@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/leta09/nft-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://leta09.github.io/nft-preview-card-component-main/)
+- Solution URL: [repo](https://github.com/leta09/nft-preview-card-component-main)
+- Live Site URL: [site](https://leta09.github.io/nft-preview-card-component-main/)
 
 ## My process
 
