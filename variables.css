@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root{
+    --blue-950: hsl(217, 54%, 11%);
+    --blue-900: hsl(216, 50%, 16%);
+    --blue-800: hsl(215, 32%, 27%);
+    --blue-500: hsl(215, 51%, 70%);
+    --cyan-400: hsl(178, 100%, 50%);
+    --white: hsl(0, 0%, 100%);
+    --font-size-p: 18px;
+    --font-w-1:300;
+    --font-w-2:400;
+    --font-w-3:600;
+}
